@@ -132,8 +132,6 @@ high_ranks <- high_ranks[-zerovec,]
 }
 
 if(any(zerocols)){
-#Possible line to check for errors later.  
-#if(length(levels(zerocols)) > 0){  
 for(i in zerocols){
   colnames(my_absolute)[colnames(my_absolute) == i] <- 0
   colnames(my_relative)[colnames(my_relative) == i] <- 0
