@@ -10,12 +10,12 @@ Metatranscriptomic response of deep ocean microbial populations to infusions of 
 
 Contents:
 
-**mBio Scripts**
+**mBio_Scripts**
 1. **SuppCode_p1.pdf** This includes all analyses shown in the mBio paper, except those run in R.
 2. **SuppCode_p2_Rsection.pdf** This includes the analyses shown in the mBio paper that were run in R.
 
 
-**ISME Scripts**
+**ISME_Scripts**
 1. **SuppCode_p1_ANVIO_Colwellia.pdf** Anvio code for the *Colwellia* DEMpangenome, referenced in the ISME paper.
 1. **SuppCode_p2_ANVIO_Marinobacter.pdf** Anvio code for the *Marinobacter* DEMpangenome referenced in the ISME paper.
 
