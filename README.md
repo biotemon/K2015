@@ -2,7 +2,7 @@
 
 Here you can find supporting materials for:
 
-**ISME paper** – *in submission*
+**ISME Communications paper** – *in submission*
 Species-specific responses of marine bacteria to environmental perturbations 
 
 **mBio paper** – *in submission*
