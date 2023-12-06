@@ -2,13 +2,19 @@
 
 Here you can find supporting materials for:
 
-**ISME Communications paper** – *in submission*
-Species-specific responses of marine bacteria to environmental perturbations 
+**ISME Communications paper:**
 
-**AEM paper** – *in submission*
+
+[Peña-Montenegro, TD et al. Species-specific responses of marine bacteria to environmental perturbation. ISME Communications Vol. 3 (2023)](https://doi.org/10.1038/s43705-023-00310-z)
+
+
+
+**AEM paper:** – *in submission*
+
+
 Metatranscriptomic response of deep ocean microbial populations to infusions of oil and/or synthetic chemical dispersant
 
-Contents:
+**Contents:**
 
 **AEM_Peña-Montenegro_et_al_2023**
 1. **SupplementaryData1.xlsx** Regularized log-normalized of mapped counts of predicted gene sequences in the Kleindienst et al. metatranscriptome.
