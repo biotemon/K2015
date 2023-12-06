@@ -16,12 +16,13 @@ Metatranscriptomic response of deep ocean microbial populations to infusions of 
 
 **Contents:**
 
-**AEM_Peña-Montenegro_et_al_2023**
+**AEM_Peña-Montenegro_et_al_2024**
 1. **SupplementaryData1.xlsx** Regularized log-normalized of mapped counts of predicted gene sequences in the Kleindienst et al. metatranscriptome.
 2. **SupplementaryData2.xlsx** Representative sequences to build a guiding phylogenetic tree for phylobetadiversity analysis of the metatranscriptomic dataset.
 3. **SuppCode_p1.pdf** This includes all scripts used for the AEM paper, except the code run in R.
-4. **SuppCode_p2_Rsection.pdf** This includes all scripts used for the AEM paper that were run in R.
-
+4. **SuppCode_p1.py** Same as SuppCode_p1.pdf but in executable python script.
+5. **SuppCode_p2_Rsection.pdf** This includes all scripts used for the AEM paper that were run in R.
+6. **SuppCode_p2_Rsection.r** Same as SuppCode_p2_Rsection.pdf but in executable R script.
 
 **ISMECOMM_Peña-Montenegro_et_al_2023**
 1. **SupplementaryData1.xlsx** Differentially expressed genes and corresponding available annotation in *Colwellia* and *Marinobacter* DEM-pangenomes. 
